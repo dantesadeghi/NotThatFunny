@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/NotThatFunny/static/css/main.e3669150.css",
-    "main.js": "/NotThatFunny/static/js/main.d6b78d27.js",
+    "main.js": "/NotThatFunny/static/js/main.75f7812d.js",
     "static/js/787.883b667f.chunk.js": "/NotThatFunny/static/js/787.883b667f.chunk.js",
     "index.html": "/NotThatFunny/index.html",
     "main.e3669150.css.map": "/NotThatFunny/static/css/main.e3669150.css.map",
-    "main.d6b78d27.js.map": "/NotThatFunny/static/js/main.d6b78d27.js.map",
+    "main.75f7812d.js.map": "/NotThatFunny/static/js/main.75f7812d.js.map",
     "787.883b667f.chunk.js.map": "/NotThatFunny/static/js/787.883b667f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e3669150.css",
-    "static/js/main.d6b78d27.js"
+    "static/js/main.75f7812d.js"
   ]
 }
