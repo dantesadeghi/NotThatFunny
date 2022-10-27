@@ -40,7 +40,7 @@ class App extends Component {
                               <span className='changeFont'>
                                     &lt;h2&gt;
                               </span> 
-                              Here's a set of !&#40;hilarious&#41; programming joke && a kinda cool background 
+                              Here's a set of !&#40;hilarious&#41; programming jokes && a kinda cool background 
                               <span className='changeFont'>
                                     &lt;/h2&gt;
                               </span>
