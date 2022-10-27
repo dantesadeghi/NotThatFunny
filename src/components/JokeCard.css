@@ -1,0 +1,9 @@
+#joke {
+      text-align: center;
+      background: linear-gradient(to top, rgb(34, 34, 33), rgb(38, 97, 64));
+      box-shadow: 3px 3px 10px rgb(49, 49, 49);
+      font-family: 'Inter', sans-serif;
+      border: 1px solid rgb(213, 227, 241);
+      width: 55vw;
+      margin-bottom: 25px;
+}
