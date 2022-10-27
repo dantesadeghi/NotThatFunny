@@ -1,5 +1,7 @@
 # NotThatFunny
 
+My React application, called NotThatFunny. It is a simple Single Page Application that features a scrollable list of ten visual cards that hold corny programming jokes which are pulled from Official Joke API. It also features a refresh button to obtain a fresh set of ten jokes.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
